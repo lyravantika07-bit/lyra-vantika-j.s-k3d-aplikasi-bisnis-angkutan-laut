@@ -1,0 +1,6 @@
+{
+  "name": "lyravantika-k3d-bal",
+  "description": "Aplikasi Sistem Informasi Manajemen Bisnis Angkutan Laut (Maritime Logistics ERP) - lyravantika-k3d-bal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
